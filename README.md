@@ -10,8 +10,8 @@ The Movie Recommender System uses a hybrid approach combining:
 By integrating both collaborative and content-based filtering techniques, the system provides more accurate and diverse recommendations.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/f2941da3-f4b7-48d9-a713-6ace1152d824" alt="photo_2024-09-04_00-27-24" style="width: 200px; height: auto; margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/eff3f028-709d-40be-b744-b9c61e8ffc22" alt="photo_2024-09-04_00-27-26" style="width: 200px; height: auto; margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/f2941da3-f4b7-48d9-a713-6ace1152d824" alt="photo_2024-09-04_00-27-24" style="width: 400px; height: auto; margin-right: 100px;" />
+  <img src="https://github.com/user-attachments/assets/eff3f028-709d-40be-b744-b9c61e8ffc22" alt="photo_2024-09-04_00-27-26" style="width: 400px; height: auto; margin-right: 100px;" />
 </div>
 
 <div style="display: flex; justify-content: space-between;">
